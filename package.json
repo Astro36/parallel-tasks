@@ -1,7 +1,7 @@
 {
   "name": "parallel-tasks",
   "version": "0.1.0",
-  "description": "Run Parallel Tasks using Cluster.",
+  "description": "Run Parallel Tasks using Cluster",
   "main": "lib/index.js",
   "scripts": {
     "lint": "eslint lib",
